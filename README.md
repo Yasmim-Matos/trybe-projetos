@@ -4,7 +4,7 @@
 >
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
-#### Projeto 1 <img alt="HTML5 logo" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+#### Projeto 1 <img alt="HTML5 logo" height="10" width="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 >- [X] Lessons Learned: _[Projeto - HTML & CSS]()_
 
 #### Projeto 2
