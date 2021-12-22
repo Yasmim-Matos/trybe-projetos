@@ -8,7 +8,7 @@
 >- [X] Lessons Learned: _[Projeto - HTML & CSS](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS))_
 
 #### Projeto 2 (Bloco 4) - Tecnologias utilizadas: <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
->- [X] Playground Functions: _[Projeto - Playground Functions (JS)]()_
+>- [X] Playground Functions: _[Projeto - Playground Functions (JS)](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/Projeto%202%20-%20Playground%20Functions%20(JS))_
 
 #### Projetos 3 e 4 (Bloco 5) - Tecnologias utilizadas: <img alt="HTML5 logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img alt="CSS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 >- [X] Projeto 3 - Pixels Art: _[Projeto - Pixels Art (HTML, CSS, JS)]()_
