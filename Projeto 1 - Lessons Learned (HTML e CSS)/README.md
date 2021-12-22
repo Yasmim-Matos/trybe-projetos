@@ -2,7 +2,7 @@
 
 ## Apresentação do Projeto
 
-![tela_inicial](Imagens/Projeto Lessons Learned.png)
+![Projeto Lessons Learned](./Projeto Lessons Learned.png)
 
 ## Objetivos do projeto
 
