@@ -2,11 +2,7 @@
 
 ## Apresentação do Projeto
 
-<<<<<<< HEAD
-![Projeto Lessons Learned](./Projeto Lessons Learned.png)
-=======
-![imagem](Imagens/Projeto Lessons Learned.png)
->>>>>>> 7949d76cca062084227120c65e3d6ec3b2b5d283
+      <img alt="Print da tela inicial do projeto Lessons Learned" height="100" width="100" src="./Projeto Lessons Learned.png">
 
 ## Objetivos do projeto
 
