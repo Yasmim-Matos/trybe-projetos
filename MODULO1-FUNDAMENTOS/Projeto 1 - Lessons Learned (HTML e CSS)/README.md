@@ -2,7 +2,7 @@
 
 ## Visualização do Projeto
 
-![print_tela_inicial](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/MODULO1-FUNDAMENTOS/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS))
+![print_tela_inicial](https://github.com/Yasmim-Matos/trybe-projetos/blob/main/MODULO1-FUNDAMENTOS/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS)/Projeto%20Lessons%20Learned.png)
 
 ## Objetivos do projeto
 
