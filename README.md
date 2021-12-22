@@ -5,7 +5,7 @@
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 #### Projeto 1 (Bloco 3) - Tecnologias utilizadas: <img alt="HTML5 logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img alt="CSS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
->- [X] Lessons Learned: _[Projeto - HTML & CSS]()_
+>- [X] Lessons Learned: _[Projeto - HTML & CSS](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS)_
 
 #### Projeto 2 (Bloco 4) - Tecnologias utilizadas: <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 >- [X] Playground Functions: _[Projeto - Playground Functions (JS)]()_
