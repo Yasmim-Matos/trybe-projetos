@@ -10,9 +10,14 @@
 #### Projeto 2 (Bloco 4) - Tecnologias utilizadas: <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 >- [X] Playground Functions: _[Projeto - Playground Functions (JS)]()_
 
-#### Projeto 3 e 4 (Bloco 5) - Tecnologias utilizadas: <img alt="HTML5 logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img alt="CSS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+#### Projetos 3 e 4 (Bloco 5) - Tecnologias utilizadas: <img alt="HTML5 logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img alt="CSS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 >- [X] Projeto 3 - Pixels Art: _[Projeto - Pixels Art (HTML, CSS, JS)]()_
 >- [X] Projeto 4 - To Do List: _[Projeto - To Do List (HTML, CSS, JS)]()_
 
 #### Projeto 5 (Bloco 6) - Tecnologias utilizadas: <img alt="HTML5 logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img alt="CSS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 >- [X] TrybeWarts: _[Projeto - TrybeWarts (HTML, CSS, JS)]()_
+
+#### Projeto 6 (Bloco 7) - Tecnologias utilizadas: <img alt="JS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+>- [X] JavaScript Unit Tests: _[Projeto - JavaScript Unit Tests (JS)]()_
+
+#### [...]
