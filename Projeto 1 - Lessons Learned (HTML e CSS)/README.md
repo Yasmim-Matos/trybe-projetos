@@ -2,7 +2,11 @@
 
 ## Apresentação do Projeto
 
+<<<<<<< HEAD
 ![Projeto Lessons Learned](./Projeto Lessons Learned.png)
+=======
+![imagem](Imagens/Projeto Lessons Learned.png)
+>>>>>>> 7949d76cca062084227120c65e3d6ec3b2b5d283
 
 ## Objetivos do projeto
 
@@ -153,4 +157,4 @@ Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao 
 
 ## O que poderia ser melhorado?
 
->-A responsividade do site para diferentes tipos de tela
+> A responsividade do site para diferentes tipos de tela
