@@ -1,6 +1,6 @@
 ## Trybe
 
->Este repositório contem todas os projetos de aprendizagem desenvolvidos por _[Yasmim Matos](https://www.linkedin.com/in/yasmimmatos)_ enquanto estudo na [Trybe](https://www.betrybe.com/) :rocket:
+>Este repositório contem todos os projetos de aprendizagem desenvolvidos por _[Yasmim Matos](https://www.linkedin.com/in/yasmimmatos)_ enquanto estudo na [Trybe](https://www.betrybe.com/) :rocket:
 >
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
