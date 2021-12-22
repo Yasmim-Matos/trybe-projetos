@@ -2,7 +2,7 @@
 
 ## Apresentação do Projeto
 
-      <img alt="Print da tela inicial do projeto Lessons Learned" height="100" width="100" src="./Projeto Lessons Learned.png">
+      <img alt="Print da tela inicial do projeto Lessons Learned" height="100" width="100" src="https://github.com/Yasmim-Matos/trybe-projetos/blob/main/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS)/Projeto%20Lessons%20Learned.png">
 
 ## Objetivos do projeto
 
