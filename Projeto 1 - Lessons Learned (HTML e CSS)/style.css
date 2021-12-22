@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  /* Requisito 1 */
+  background-color: rgb(253, 251, 251);
+
+  /* Requisito 14 */
+  font-family: sans-serif;
+}
+
+#cabecalho {
+  background-color: rgb(46, 64, 87);
+  color: white;
+  text-align: center;
+  height: 80px;
+  width: 100%;
+
+  /* Requisito 2 */
+  top: 0;
+  position: fixed;
+}
+
+#titulo {
+
+  /* Requisito 14 */
+  font-size: 30px;
+  margin: 0;
+  padding-top: 20px;
+}
+
+nav {
+  background-color: rgb(228, 223, 218);
+  height: 25px;
+  width: 100%;
+  position: fixed;
+}
+
+nav ul {
+  margin-top: 0;
+  padding-top: 3px;
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+nav ul li:nth-child( 2 ) {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+nav ul li a:hover {
+  color: white;
+  background-color: rgb(47, 45, 46);
+  padding: 3px;
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: 300ms ease-in-out;
+}
+
+main {
+  margin-top: 80px;
+}
+
+#minha_foto {
+
+  /* Requisito 13 */
+  margin-top: 40px;
+  border-radius: 20px;
+  margin-left: 50px;
+  width: 250px;
+}
+
+#minha_foto:hover {
+  transform: scale(1.025);
+  transition: 200ms ease-in-out;
+}
+
+article , aside {
+
+  /* Requisito 14 */
+  line-height: 1.25;
+  padding: 5px;
+}
+
+#licoes_aprendidas {
+  width: 28%;
+  display: inline-block;
+  margin-left: 90px;
+
+  /* Requisito 14 */
+  background-color: rgb(4, 139, 168);
+  font-size: 15px;
+  color: white;
+  padding-bottom: 10px;
+  border-radius: 20px;
+}
+
+#licoes_a_aprender {
+  width: 28%;
+  display: inline-block;
+  margin-left: 50px;
+
+  /* Requisito 14 */
+  background-color: rgb(4, 139, 168);
+  font-size: 15px;
+  color: white;
+  padding-bottom: 10px;
+  border-radius: 20px;
+}
+
+.lado-esquerdo {
+
+  /* Requisito 15 */
+  width: 42%;
+  display: inline-block;
+  margin-left: 90px;
+  margin-right: 40px;
+  border: 2px black solid;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(4, 139, 168);
+  color: white;
+}
+
+.lado-direito {
+
+  /* Requisito 15 */
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  margin-left: 40px;
+  border: 2px black solid;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(4, 139, 168);
+  color: white;
+}
+
+#tabela {
+  border-style: double;
+  margin-left: 590px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+
+/* Source: https://www.w3schools.com/html/html_table_borders.asp */
+table , th , td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: rgb(228, 223, 218);
+}
+
+td {
+  background-color: rgb(4, 139, 168);
+  color: white;
+}
+
+td , th {
+  padding: 5px;
+}
+
+footer {
+  margin-top: 10px;
+  height: 80px;
+  background-color: rgb(47, 45, 46);
+  text-align: center;
+}
+
+section aside {
+  vertical-align: top;
+}
+
+.imagem_contato {
+  width: 50px;
+}
+
+#botaolink {
+  padding-top: 10px;
+  width: 100px;
+}
