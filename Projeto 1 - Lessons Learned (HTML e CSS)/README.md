@@ -1,4 +1,4 @@
-# Projeto 1 - Lessons Learned
+## Projeto 1 - Lessons Learned (Tecnologias utilizadas: <img alt="HTML5 logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img alt="CSS logo" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">)
 
 ## Apresentação do Projeto
 
