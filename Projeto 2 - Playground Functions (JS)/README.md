@@ -2,8 +2,8 @@
 
 ## Observações importantes
 
-- Os códigos desenvolvidos estão dentro da pasta src e estão divididos em dois arquivos com nomes: challenges.js e challenges2.js;
-- Os testes unitários para a verificação de cada requisito está dentro da pasta tests. 
+- Os códigos desenvolvidos estão dentro da pasta `src` e estão divididos em dois arquivos com nomes: `challenges.js` e `challenges2.js`;
+- Os testes unitários para a verificação de cada requisito estão dentro da pasta `tests`. 
 
 ## Objetivos do Projeto
 
@@ -17,7 +17,6 @@
 - Manipular objetos;
 - Utilizar o comando for/in ;
 - Utilizar funções para organizar e estruturar o código.
-
 
 ## Requisitos do projeto
 
@@ -314,4 +313,4 @@ String retornada:
 
 ## O que poderia ser melhorado?
 
-> As funções dos requisitos: 6, 8, 9, 11 e 12 poderiam ser refatoradas para que os códigos ficassem mais otimizados e menores
+> As funções dos requisitos: 6, 8, 9, 11 e 12 poderiam ser refatoradas para que os códigos ficassem mais otimizados e menores.
