@@ -2,7 +2,7 @@
 
 ## Apresentação do Projeto
 
-![tela_inicial](Imagens/Projeto Lessons Learned.png)
+![imagem](Imagens/Projeto Lessons Learned.png)
 
 ## Objetivos do projeto
 
@@ -153,4 +153,4 @@ Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao 
 
 ## O que poderia ser melhorado?
 
->-A responsividade do site para diferentes tipos de tela
+> A responsividade do site para diferentes tipos de tela
